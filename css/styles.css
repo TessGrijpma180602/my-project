@@ -1,0 +1,17 @@
+@charset "utf-8";
+.my-container {
+	color: black;
+	background-color: pink;
+	border: 1px solid black;
+	text-align: center;
+	padding: 0,5em;
+}
+.my-class {
+	color: hotpink;
+	background-color: lightcyan;
+	border: 1px solid blue;
+	padding: 0,5em;
+}
+#para1 {
+	color: deeppink
+}
