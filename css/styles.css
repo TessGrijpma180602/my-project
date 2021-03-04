@@ -5,7 +5,11 @@
 	background-color: lightblue;
 	border: 1px solid black;
 	text-align: left;
-	padding: 0.5em;
+	margin-bottom: 5px;
+    margin-left: 5px;
+	margin-right:  5px;
+	margin-top:  5px;
+	padding: 1px
 }
 .my-class {
 	color: darkblue;
@@ -20,8 +24,8 @@
 #para1 {
 	color: hotpink
 }
-.my-id {
-	background-image: url("../../../my-project/images/Background.jpg");
+.id-third {
+	background-image: url("../images/Background.jpg");
 	Color: white; 	
 }
 .my-box {
